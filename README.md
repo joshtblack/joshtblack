@@ -1,9 +1,5 @@
 # [![Banner](https://i.imgur.com/GnNOQ1U.png)](https://noodles.wtf)
 
-<p align='center'>
-<a href="https://twitter.com/_joshtblack"><img height="30" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png?raw=true"></a>&nbsp;&nbsp;
-</p>
-
 ### Hello! 👋
 I am Noodles, I mess around with projects here and there, although nothing much too significant. I prefer messing with JavaScript, TypeScript or React, though I do dabble my fingers in some other languages like Lua & Python.
 
