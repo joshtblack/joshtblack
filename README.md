@@ -1,9 +1,9 @@
 # [![Banner](https://i.imgur.com/GnNOQ1U.png)](https://noodles.wtf)
 
 ### Hello! 👋
-I am Noodles, I mess around with projects here and there, although nothing much too significant. I prefer messing with JavaScript, TypeScript or React, though I do dabble my fingers in some other languages like Lua & Python.
+I am Noodles, I mess around with projects here and there. I co-own a file/screenshot host named [Iodine](https://iodine.gg) in which I manage infrastructure and develop frontend for.
 
 ---
-The most you'll see me active is in the txAdmin & CFX Discord, I rarely talk anywhere else on Discord. I'm quite involved within the FiveM community, this is basically my home for my useless projects such as a website dedicated to calling someone a weeb, that kind of stuff, I basically never release for public use, as I have nothing to create; if you're here for that, you're not in the right place.
+I spend most of my time working on frontend projects, working with React frameworks such as Next.js and UI frameworks such as Tailwind CSS. The [iodine.gg](https://iodine.gg) website was built by me using Next.js, Preact and Tailwind CSS.
 
-Otherwise, feel free to roam my projects!
+I have over 5 years of experience with [Cloudflare](https://cloudflare.com), approximately 3 years with [Amazon Web Services](https://aws.amazon.com/) and approximately 2 years with [Google Cloud Platform](https://cloud.google.com/).
