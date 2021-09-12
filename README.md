@@ -1,4 +1,4 @@
-# [![Banner](https://i.file.glass/6ajic.png)](https://noodles.cool)
+# [![Banner](https://i.file.glass/e247e.png)](https://noodles.cool)
 
 ### Hello! 👋
 I am Noodles, I mess around with projects here and there. I own a file/screenshot host named [Fileglass](https://file.glass) in which I manage infrastructure and develop frontend for.
