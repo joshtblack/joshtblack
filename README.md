@@ -1,7 +1,7 @@
 # [![Banner](https://i.file.glass/e247e.png)](https://noodles.cool)
 
 ### Hello! 👋
-I am Noodles, I mess around with projects here and there. I own a file/screenshot host named [Fileglass](https://file.glass) in which I manage infrastructure and develop frontend for.
+I am Josh, I mess around with projects here and there. I own a file/screenshot host named [Fileglass](https://file.glass) in which I manage infrastructure and develop frontend for.
 
 ---
 I spend most of my time working on frontend projects, working with React frameworks such as Next.js or Gatsby.js and UI frameworks such as Tailwind CSS. The [file.glass](https://file.glass) website was built using Next.js, Preact and Tailwind CSS. I primarily prefer frontend web development and I enjoy working with network infrastructures and application security.
